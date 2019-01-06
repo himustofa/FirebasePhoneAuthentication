@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebasePhoneAuthentication</string>
+
+    <string name="progress">Please wait...</string>
+    <string name="network_unavailable">Network connection is not available</string>
+    <string name="try_again">Try Again</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_ok">OK</string>
+</resources>
